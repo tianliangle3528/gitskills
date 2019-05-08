@@ -1,1 +1,1 @@
-Creating a new brabch is quick and simple
+Creating a new brabch is quick AND simple
